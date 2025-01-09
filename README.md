@@ -10,6 +10,9 @@ khanhedit
     <video src="https://github.com/epcbtech/archery-game/assets/54855481/d493703c-bf5b-4fd2-ae04-b86784a01231" alt="epcb archery game" height=200/>
 </div>
 
+<div align="center">
+    <video src="/resources/images/KHANH.mp4" type="video/mp4" alt="epcb archery game" height=200/>
+</div>
 
 <hr>
 
