@@ -11,7 +11,7 @@ khanhedit
 </div>
 
 <div align="center">
-    <video src="/resources/images/KHANH.mp4" type="video/mp4" alt="epcb archery game" height=200/>
+    <video src="./resources/images/KHANH.mp4" type="video/mp4" alt="epcb archery game" height=200/>
 </div>
 
 <hr>
